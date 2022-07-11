@@ -1,8 +1,7 @@
-FROM alpine:3.6
+FROM node:14-alpine
 
-WORKDIR /app/front-end/
-COPY ./node_modules.tar.gz ./
-COPY ./ ./
+WORKDIR /front-end
+ADD ./node_modules.tar.gz .
+COPY . .
 EXPOSE 3000
-ENTRYPOINT [ "npm" ]
-CMD ["start"]
+ENTRYPOINT [ "npm", "start" ]
