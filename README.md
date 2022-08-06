@@ -7,7 +7,7 @@ Para isso foram desenvolvidos arquivos de configuração para cada frente espec�
 
 ## Autores
 
-- [@tassio medeiros](https://github.com/Tassio-Med)
+- [@tassio_medeiros](https://github.com/Tassio-Med)
 
 - [@trybe](https://github.com/betrybe)
 
