@@ -13,11 +13,3 @@ services:
     image: todobackend
     ports:
       - 3001:3001
-
-  todotests:
-    image: todotests
-    depends_on:
-    - todofront
-    - todoback
-    environment:
-      - FRONT_HOST=todofront
