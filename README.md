@@ -1,7 +1,7 @@
 
 # Bem-vindo ao repositório do projeto Docker Todo List!
 
-Neste projeto temos uma aplicação full-stack, um **aplicativo de tarefas**! O objetivo foi conteinerizar a pakicação para ela poder funcionar.
+Neste projeto temos uma aplicação full-stack, um **aplicativo de tarefas**! O objetivo foi conteinerizar a aplicação para ela poder funcionar.
 
 Para isso foram desenvolvidos arquivos de configuração para cada frente específica: `Front-end` e `Back-end`. Também foram criadas imagens e configuradas com o `docker-compose`.
 
