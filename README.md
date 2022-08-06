@@ -17,7 +17,6 @@ O `Front-end` e o `Back-end` foram construídos pela [@trybe](https://github.com
 Fiquei responsável pela conteinerização aplicação, ou seja, tudo referente à `docker`.
 
 
-
 ## Uso/Exemplos
 
 ```docker
